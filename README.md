@@ -1,4 +1,4 @@
-[Oranger Wagen geparkt an einer Landtraße](https://cdn.pixabay.com/photo/2018/06/19/14/11/car-3484527_1280.jpg)
+![Oranger Wagen geparkt an einer Landtraße](https://cdn.pixabay.com/photo/2018/06/19/14/11/car-3484527_1280.jpg)
 
 MCS („Multiple Chemikaliensensitivität“) und EHS („Elektrohypersensitivität“) schränken
 die soziale Teilhabe im Alltag stark ein oder machen diese unmöglich. Die Benutzung von
