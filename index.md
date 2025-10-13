@@ -13,6 +13,6 @@ Sozialgesetzbuch IX (kurz SGB IX) die Möglichkeit vorgesehen, Behinderte im Bed
 finanziell zu unterstützen. Grundsätzlich können der Erwerb, eventuelle Umbauten (wie
 Stilllegung von Funkquellen) sowie Zusatzausstattungen (wie Luftfilter, Abschirmungen), die Instandhaltung und eventuell die Zahlung laufender Kosten eines Kraftfahrzeugs genehmigt werden.
 
-[Klicke hier => Aktuelles Dokument](https://github.com/ghmon/kfz-sgb-ix/blob/main/2025-Handreichung-Antrag-Unterstützungsleistungen-Kraftfahrzeug-SGB-IX-P83.pdf), dann Download des PDF durch Mausklick auf die Schaltfläche mit dem Pfeil nach unten, oder gleichzeitiges Drücken der Tasten Ctrl+Shift+S.
+[Klicke hier => Aktuelles Dokument](https://github.com/ghmon/kfz-sgb-ix/blob/main/2025-Handreichung-Antrag-Unterstützungsleistungen-Kraftfahrzeug-SGB-IX-P83.pdf), dann Download des PDF durch Mausklick auf die Schaltfläche mit dem Pfeil nach unten, oder gleichzeitiges Drücken der Tasten Ctrl+Shift+S (oder Strg+Umsch+S).
 
 Bild von [MabelAmber, Pixabay](https://pixabay.com/de/photos/wagen-automobil-fahrzeug-3484527)
